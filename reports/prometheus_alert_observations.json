@@ -1,0 +1,664 @@
+﻿[
+    {
+        "observedAt":  "2026-11-25T10:19:24.1617842Z",
+        "elapsedSeconds":  0,
+        "firing":  "LLMCostBurnRateHigh",
+        "alerts":  [
+                       {
+                           "labels":  {
+                                          "alertname":  "LLMCostBurnRateHigh",
+                                          "severity":  "warning"
+                                      },
+                           "annotations":  {
+                                               "description":  "Tá»c Äá» chi tiÃªu hiá»n táº¡i: $5.68/giá»",
+                                               "summary":  "Chi phÃ­ LLM Äang vÆ°á»£t $2/giá»"
+                                           },
+                           "state":  "firing",
+                           "activeAt":  "2026-11-25T10:15:27.571501534Z",
+                           "value":  "5.678309107643466e+00"
+                       }
+                   ]
+    },
+    {
+        "observedAt":  "2026-11-25T10:19:29.6975068Z",
+        "elapsedSeconds":  5.6,
+        "firing":  "LLMCostBurnRateHigh",
+        "alerts":  [
+                       {
+                           "labels":  {
+                                          "alertname":  "LLMCostBurnRateHigh",
+                                          "severity":  "warning"
+                                      },
+                           "annotations":  {
+                                               "description":  "Tá»c Äá» chi tiÃªu hiá»n táº¡i: $5.63/giá»",
+                                               "summary":  "Chi phÃ­ LLM Äang vÆ°á»£t $2/giá»"
+                                           },
+                           "state":  "firing",
+                           "activeAt":  "2026-11-25T10:15:27.571501534Z",
+                           "value":  "5.630083218405674e+00"
+                       }
+                   ]
+    },
+    {
+        "observedAt":  "2026-11-25T10:19:34.7021678Z",
+        "elapsedSeconds":  10.6,
+        "firing":  "LLMCostBurnRateHigh",
+        "alerts":  [
+                       {
+                           "labels":  {
+                                          "alertname":  "LLMCostBurnRateHigh",
+                                          "severity":  "warning"
+                                      },
+                           "annotations":  {
+                                               "description":  "Tá»c Äá» chi tiÃªu hiá»n táº¡i: $5.57/giá»",
+                                               "summary":  "Chi phÃ­ LLM Äang vÆ°á»£t $2/giá»"
+                                           },
+                           "state":  "firing",
+                           "activeAt":  "2026-11-25T10:15:27.571501534Z",
+                           "value":  "5.571366578301132e+00"
+                       }
+                   ]
+    },
+    {
+        "observedAt":  "2026-11-25T10:19:39.7167937Z",
+        "elapsedSeconds":  15.6,
+        "firing":  "LLMCostBurnRateHigh",
+        "alerts":  [
+                       {
+                           "labels":  {
+                                          "alertname":  "LLMCostBurnRateHigh",
+                                          "severity":  "warning"
+                                      },
+                           "annotations":  {
+                                               "description":  "Tá»c Äá» chi tiÃªu hiá»n táº¡i: $5.53/giá»",
+                                               "summary":  "Chi phÃ­ LLM Äang vÆ°á»£t $2/giá»"
+                                           },
+                           "state":  "firing",
+                           "activeAt":  "2026-11-25T10:15:27.571501534Z",
+                           "value":  "5.529311683639613e+00"
+                       }
+                   ]
+    },
+    {
+        "observedAt":  "2026-11-25T10:19:44.7213876Z",
+        "elapsedSeconds":  20.6,
+        "firing":  "LLMCostBurnRateHigh",
+        "alerts":  [
+                       {
+                           "labels":  {
+                                          "alertname":  "LLMCostBurnRateHigh",
+                                          "severity":  "warning"
+                                      },
+                           "annotations":  {
+                                               "description":  "Tá»c Äá» chi tiÃªu hiá»n táº¡i: $5.50/giá»",
+                                               "summary":  "Chi phÃ­ LLM Äang vÆ°á»£t $2/giá»"
+                                           },
+                           "state":  "firing",
+                           "activeAt":  "2026-11-25T10:15:27.571501534Z",
+                           "value":  "5.4999390964991886e+00"
+                       }
+                   ]
+    },
+    {
+        "observedAt":  "2026-11-25T10:19:49.7407148Z",
+        "elapsedSeconds":  25.6,
+        "firing":  "LLMCostBurnRateHigh",
+        "alerts":  [
+                       {
+                           "labels":  {
+                                          "alertname":  "LLMCostBurnRateHigh",
+                                          "severity":  "warning"
+                                      },
+                           "annotations":  {
+                                               "description":  "Tá»c Äá» chi tiÃªu hiá»n táº¡i: $5.45/giá»",
+                                               "summary":  "Chi phÃ­ LLM Äang vÆ°á»£t $2/giá»"
+                                           },
+                           "state":  "firing",
+                           "activeAt":  "2026-11-25T10:15:27.571501534Z",
+                           "value":  "5.450116899194417e+00"
+                       }
+                   ]
+    },
+    {
+        "observedAt":  "2026-11-25T10:19:54.7566416Z",
+        "elapsedSeconds":  30.6,
+        "firing":  "LLMCostBurnRateHigh",
+        "alerts":  [
+                       {
+                           "labels":  {
+                                          "alertname":  "LLMCostBurnRateHigh",
+                                          "severity":  "warning"
+                                      },
+                           "annotations":  {
+                                               "description":  "Tá»c Äá» chi tiÃªu hiá»n táº¡i: $5.40/giá»",
+                                               "summary":  "Chi phÃ­ LLM Äang vÆ°á»£t $2/giá»"
+                                           },
+                           "state":  "firing",
+                           "activeAt":  "2026-11-25T10:15:27.571501534Z",
+                           "value":  "5.4004596282352875e+00"
+                       }
+                   ]
+    },
+    {
+        "observedAt":  "2026-11-25T10:19:59.7670297Z",
+        "elapsedSeconds":  35.6,
+        "firing":  "LLMCostBurnRateHigh",
+        "alerts":  [
+                       {
+                           "labels":  {
+                                          "alertname":  "LLMCostBurnRateHigh",
+                                          "severity":  "warning"
+                                      },
+                           "annotations":  {
+                                               "description":  "Tá»c Äá» chi tiÃªu hiá»n táº¡i: $5.35/giá»",
+                                               "summary":  "Chi phÃ­ LLM Äang vÆ°á»£t $2/giá»"
+                                           },
+                           "state":  "firing",
+                           "activeAt":  "2026-11-25T10:15:27.571501534Z",
+                           "value":  "5.348192334642622e+00"
+                       }
+                   ]
+    },
+    {
+        "observedAt":  "2026-11-25T10:20:04.7771738Z",
+        "elapsedSeconds":  40.6,
+        "firing":  "LLMCostBurnRateHigh",
+        "alerts":  [
+                       {
+                           "labels":  {
+                                          "alertname":  "LLMCostBurnRateHigh",
+                                          "severity":  "warning"
+                                      },
+                           "annotations":  {
+                                               "description":  "Tá»c Äá» chi tiÃªu hiá»n táº¡i: $5.30/giá»",
+                                               "summary":  "Chi phÃ­ LLM Äang vÆ°á»£t $2/giá»"
+                                           },
+                           "state":  "firing",
+                           "activeAt":  "2026-11-25T10:15:27.571501534Z",
+                           "value":  "5.2992917614946e+00"
+                       }
+                   ]
+    },
+    {
+        "observedAt":  "2026-11-25T10:20:09.7885661Z",
+        "elapsedSeconds":  45.7,
+        "firing":  "LLMCostBurnRateHigh",
+        "alerts":  [
+                       {
+                           "labels":  {
+                                          "alertname":  "LLMCostBurnRateHigh",
+                                          "severity":  "warning"
+                                      },
+                           "annotations":  {
+                                               "description":  "Tá»c Äá» chi tiÃªu hiá»n táº¡i: $5.25/giá»",
+                                               "summary":  "Chi phÃ­ LLM Äang vÆ°á»£t $2/giá»"
+                                           },
+                           "state":  "firing",
+                           "activeAt":  "2026-11-25T10:15:27.571501534Z",
+                           "value":  "5.251252295570031e+00"
+                       }
+                   ]
+    },
+    {
+        "observedAt":  "2026-11-25T10:20:14.7957514Z",
+        "elapsedSeconds":  50.7,
+        "firing":  "LLMCostBurnRateHigh",
+        "alerts":  [
+                       {
+                           "labels":  {
+                                          "alertname":  "LLMCostBurnRateHigh",
+                                          "severity":  "warning"
+                                      },
+                           "annotations":  {
+                                               "description":  "Tá»c Äá» chi tiÃªu hiá»n táº¡i: $5.19/giá»",
+                                               "summary":  "Chi phÃ­ LLM Äang vÆ°á»£t $2/giá»"
+                                           },
+                           "state":  "firing",
+                           "activeAt":  "2026-11-25T10:15:27.571501534Z",
+                           "value":  "5.191868065285484e+00"
+                       }
+                   ]
+    },
+    {
+        "observedAt":  "2026-11-25T10:20:19.8125810Z",
+        "elapsedSeconds":  55.7,
+        "firing":  "AgentHighErrorRate,LLMCostBurnRateHigh",
+        "alerts":  [
+                       {
+                           "labels":  {
+                                          "alertname":  "AgentHighErrorRate",
+                                          "severity":  "critical"
+                                      },
+                           "annotations":  {
+                                               "description":  "Error rate hiá»n táº¡i: 26.34% (SLO: \u003c 5%)",
+                                               "summary":  "Error rate /ask vÆ°á»£t 5%"
+                                           },
+                           "state":  "firing",
+                           "activeAt":  "2026-11-25T10:19:17.401817116Z",
+                           "value":  "2.633975481611208e-01"
+                       },
+                       {
+                           "labels":  {
+                                          "alertname":  "LLMCostBurnRateHigh",
+                                          "severity":  "warning"
+                                      },
+                           "annotations":  {
+                                               "description":  "Tá»c Äá» chi tiÃªu hiá»n táº¡i: $5.15/giá»",
+                                               "summary":  "Chi phÃ­ LLM Äang vÆ°á»£t $2/giá»"
+                                           },
+                           "state":  "firing",
+                           "activeAt":  "2026-11-25T10:15:27.571501534Z",
+                           "value":  "5.145859128151038e+00"
+                       }
+                   ]
+    },
+    {
+        "observedAt":  "2026-11-25T10:20:24.8304082Z",
+        "elapsedSeconds":  60.7,
+        "firing":  "AgentHighErrorRate,LLMCostBurnRateHigh",
+        "alerts":  [
+                       {
+                           "labels":  {
+                                          "alertname":  "AgentHighErrorRate",
+                                          "severity":  "critical"
+                                      },
+                           "annotations":  {
+                                               "description":  "Error rate hiá»n táº¡i: 26.14% (SLO: \u003c 5%)",
+                                               "summary":  "Error rate /ask vÆ°á»£t 5%"
+                                           },
+                           "state":  "firing",
+                           "activeAt":  "2026-11-25T10:19:17.401817116Z",
+                           "value":  "2.614470464872422e-01"
+                       },
+                       {
+                           "labels":  {
+                                          "alertname":  "LLMCostBurnRateHigh",
+                                          "severity":  "warning"
+                                      },
+                           "annotations":  {
+                                               "description":  "Tá»c Äá» chi tiÃªu hiá»n táº¡i: $5.09/giá»",
+                                               "summary":  "Chi phÃ­ LLM Äang vÆ°á»£t $2/giá»"
+                                           },
+                           "state":  "firing",
+                           "activeAt":  "2026-11-25T10:15:27.571501534Z",
+                           "value":  "5.093749899876431e+00"
+                       }
+                   ]
+    },
+    {
+        "observedAt":  "2026-11-25T10:20:29.8435082Z",
+        "elapsedSeconds":  65.7,
+        "firing":  "AgentHighErrorRate,LLMCostBurnRateHigh",
+        "alerts":  [
+                       {
+                           "labels":  {
+                                          "alertname":  "AgentHighErrorRate",
+                                          "severity":  "critical"
+                                      },
+                           "annotations":  {
+                                               "description":  "Error rate hiá»n táº¡i: 25.85% (SLO: \u003c 5%)",
+                                               "summary":  "Error rate /ask vÆ°á»£t 5%"
+                                           },
+                           "state":  "firing",
+                           "activeAt":  "2026-11-25T10:19:17.401817116Z",
+                           "value":  "2.5847013622074744e-01"
+                       },
+                       {
+                           "labels":  {
+                                          "alertname":  "LLMCostBurnRateHigh",
+                                          "severity":  "warning"
+                                      },
+                           "annotations":  {
+                                               "description":  "Tá»c Äá» chi tiÃªu hiá»n táº¡i: $5.05/giá»",
+                                               "summary":  "Chi phÃ­ LLM Äang vÆ°á»£t $2/giá»"
+                                           },
+                           "state":  "firing",
+                           "activeAt":  "2026-11-25T10:15:27.571501534Z",
+                           "value":  "5.052210189686322e+00"
+                       }
+                   ]
+    },
+    {
+        "observedAt":  "2026-11-25T10:20:34.8543392Z",
+        "elapsedSeconds":  70.7,
+        "firing":  "LLMCostBurnRateHigh,AgentHighErrorRate",
+        "alerts":  [
+                       {
+                           "labels":  {
+                                          "alertname":  "LLMCostBurnRateHigh",
+                                          "severity":  "warning"
+                                      },
+                           "annotations":  {
+                                               "description":  "Tá»c Äá» chi tiÃªu hiá»n táº¡i: $5.01/giá»",
+                                               "summary":  "Chi phÃ­ LLM Äang vÆ°á»£t $2/giá»"
+                                           },
+                           "state":  "firing",
+                           "activeAt":  "2026-11-25T10:15:27.571501534Z",
+                           "value":  "5.012446174201506e+00"
+                       },
+                       {
+                           "labels":  {
+                                          "alertname":  "AgentHighErrorRate",
+                                          "severity":  "critical"
+                                      },
+                           "annotations":  {
+                                               "description":  "Error rate hiá»n táº¡i: 25.51% (SLO: \u003c 5%)",
+                                               "summary":  "Error rate /ask vÆ°á»£t 5%"
+                                           },
+                           "state":  "firing",
+                           "activeAt":  "2026-11-25T10:19:17.401817116Z",
+                           "value":  "2.5505226480836235e-01"
+                       }
+                   ]
+    },
+    {
+        "observedAt":  "2026-11-25T10:20:39.9410683Z",
+        "elapsedSeconds":  75.8,
+        "firing":  "AgentHighErrorRate,LLMCostBurnRateHigh",
+        "alerts":  [
+                       {
+                           "labels":  {
+                                          "alertname":  "AgentHighErrorRate",
+                                          "severity":  "critical"
+                                      },
+                           "annotations":  {
+                                               "description":  "Error rate hiá»n táº¡i: 25.56% (SLO: \u003c 5%)",
+                                               "summary":  "Error rate /ask vÆ°á»£t 5%"
+                                           },
+                           "state":  "firing",
+                           "activeAt":  "2026-11-25T10:19:17.401817116Z",
+                           "value":  "2.5559559249684305e-01"
+                       },
+                       {
+                           "labels":  {
+                                          "alertname":  "LLMCostBurnRateHigh",
+                                          "severity":  "warning"
+                                      },
+                           "annotations":  {
+                                               "description":  "Tá»c Äá» chi tiÃªu hiá»n táº¡i: $4.96/giá»",
+                                               "summary":  "Chi phÃ­ LLM Äang vÆ°á»£t $2/giá»"
+                                           },
+                           "state":  "firing",
+                           "activeAt":  "2026-11-25T10:15:27.571501534Z",
+                           "value":  "4.9555233690461336e+00"
+                       }
+                   ]
+    },
+    {
+        "observedAt":  "2026-11-25T10:20:44.9591356Z",
+        "elapsedSeconds":  80.8,
+        "firing":  "LLMCostBurnRateHigh,AgentHighErrorRate",
+        "alerts":  [
+                       {
+                           "labels":  {
+                                          "alertname":  "LLMCostBurnRateHigh",
+                                          "severity":  "warning"
+                                      },
+                           "annotations":  {
+                                               "description":  "Tá»c Äá» chi tiÃªu hiá»n táº¡i: $4.90/giá»",
+                                               "summary":  "Chi phÃ­ LLM Äang vÆ°á»£t $2/giá»"
+                                           },
+                           "state":  "firing",
+                           "activeAt":  "2026-11-25T10:15:27.571501534Z",
+                           "value":  "4.903135875571904e+00"
+                       },
+                       {
+                           "labels":  {
+                                          "alertname":  "AgentHighErrorRate",
+                                          "severity":  "critical"
+                                      },
+                           "annotations":  {
+                                               "description":  "Error rate hiá»n táº¡i: 25.05% (SLO: \u003c 5%)",
+                                               "summary":  "Error rate /ask vÆ°á»£t 5%"
+                                           },
+                           "state":  "firing",
+                           "activeAt":  "2026-11-25T10:19:17.401817116Z",
+                           "value":  "2.5053003533568907e-01"
+                       }
+                   ]
+    },
+    {
+        "observedAt":  "2026-11-25T10:20:49.9658695Z",
+        "elapsedSeconds":  85.8,
+        "firing":  "AgentHighErrorRate,LLMCostBurnRateHigh",
+        "alerts":  [
+                       {
+                           "labels":  {
+                                          "alertname":  "AgentHighErrorRate",
+                                          "severity":  "critical"
+                                      },
+                           "annotations":  {
+                                               "description":  "Error rate hiá»n táº¡i: 24.5% (SLO: \u003c 5%)",
+                                               "summary":  "Error rate /ask vÆ°á»£t 5%"
+                                           },
+                           "state":  "firing",
+                           "activeAt":  "2026-11-25T10:19:17.401817116Z",
+                           "value":  "2.4496999647017295e-01"
+                       },
+                       {
+                           "labels":  {
+                                          "alertname":  "LLMCostBurnRateHigh",
+                                          "severity":  "warning"
+                                      },
+                           "annotations":  {
+                                               "description":  "Tá»c Äá» chi tiÃªu hiá»n táº¡i: $4.86/giá»",
+                                               "summary":  "Chi phÃ­ LLM Äang vÆ°á»£t $2/giá»"
+                                           },
+                           "state":  "firing",
+                           "activeAt":  "2026-11-25T10:15:27.571501534Z",
+                           "value":  "4.860875982366383e+00"
+                       }
+                   ]
+    },
+    {
+        "observedAt":  "2026-11-25T10:20:54.9713398Z",
+        "elapsedSeconds":  90.8,
+        "firing":  "AgentHighErrorRate,LLMCostBurnRateHigh",
+        "alerts":  [
+                       {
+                           "labels":  {
+                                          "alertname":  "AgentHighErrorRate",
+                                          "severity":  "critical"
+                                      },
+                           "annotations":  {
+                                               "description":  "Error rate hiá»n táº¡i: 24.06% (SLO: \u003c 5%)",
+                                               "summary":  "Error rate /ask vÆ°á»£t 5%"
+                                           },
+                           "state":  "firing",
+                           "activeAt":  "2026-11-25T10:19:17.401817116Z",
+                           "value":  "2.4059092055783562e-01"
+                       },
+                       {
+                           "labels":  {
+                                          "alertname":  "LLMCostBurnRateHigh",
+                                          "severity":  "warning"
+                                      },
+                           "annotations":  {
+                                               "description":  "Tá»c Äá» chi tiÃªu hiá»n táº¡i: $4.82/giá»",
+                                               "summary":  "Chi phÃ­ LLM Äang vÆ°á»£t $2/giá»"
+                                           },
+                           "state":  "firing",
+                           "activeAt":  "2026-11-25T10:15:27.571501534Z",
+                           "value":  "4.823092067545373e+00"
+                       }
+                   ]
+    },
+    {
+        "observedAt":  "2026-11-25T10:20:59.9828379Z",
+        "elapsedSeconds":  95.8,
+        "firing":  "AgentHighErrorRate,LLMCostBurnRateHigh",
+        "alerts":  [
+                       {
+                           "labels":  {
+                                          "alertname":  "AgentHighErrorRate",
+                                          "severity":  "critical"
+                                      },
+                           "annotations":  {
+                                               "description":  "Error rate hiá»n táº¡i: 24.61% (SLO: \u003c 5%)",
+                                               "summary":  "Error rate /ask vÆ°á»£t 5%"
+                                           },
+                           "state":  "firing",
+                           "activeAt":  "2026-11-25T10:19:17.401817116Z",
+                           "value":  "2.4612676056338026e-01"
+                       },
+                       {
+                           "labels":  {
+                                          "alertname":  "LLMCostBurnRateHigh",
+                                          "severity":  "warning"
+                                      },
+                           "annotations":  {
+                                               "description":  "Tá»c Äá» chi tiÃªu hiá»n táº¡i: $4.76/giá»",
+                                               "summary":  "Chi phÃ­ LLM Äang vÆ°á»£t $2/giá»"
+                                           },
+                           "state":  "firing",
+                           "activeAt":  "2026-11-25T10:15:27.571501534Z",
+                           "value":  "4.762192408212797e+00"
+                       }
+                   ]
+    },
+    {
+        "observedAt":  "2026-11-25T10:21:04.9980624Z",
+        "elapsedSeconds":  100.9,
+        "firing":  "AgentHighErrorRate,LLMCostBurnRateHigh",
+        "alerts":  [
+                       {
+                           "labels":  {
+                                          "alertname":  "AgentHighErrorRate",
+                                          "severity":  "critical"
+                                      },
+                           "annotations":  {
+                                               "description":  "Error rate hiá»n táº¡i: 25.09% (SLO: \u003c 5%)",
+                                               "summary":  "Error rate /ask vÆ°á»£t 5%"
+                                           },
+                           "state":  "firing",
+                           "activeAt":  "2026-11-25T10:19:17.401817116Z",
+                           "value":  "2.5087719298245614e-01"
+                       },
+                       {
+                           "labels":  {
+                                          "alertname":  "LLMCostBurnRateHigh",
+                                          "severity":  "warning"
+                                      },
+                           "annotations":  {
+                                               "description":  "Tá»c Äá» chi tiÃªu hiá»n táº¡i: $4.75/giá»",
+                                               "summary":  "Chi phÃ­ LLM Äang vÆ°á»£t $2/giá»"
+                                           },
+                           "state":  "firing",
+                           "activeAt":  "2026-11-25T10:15:27.571501534Z",
+                           "value":  "4.750780706147081e+00"
+                       }
+                   ]
+    },
+    {
+        "observedAt":  "2026-11-25T10:21:10.0131736Z",
+        "elapsedSeconds":  105.9,
+        "firing":  "AgentHighErrorRate,LLMCostBurnRateHigh",
+        "alerts":  [
+                       {
+                           "labels":  {
+                                          "alertname":  "AgentHighErrorRate",
+                                          "severity":  "critical"
+                                      },
+                           "annotations":  {
+                                               "description":  "Error rate hiá»n táº¡i: 24.64% (SLO: \u003c 5%)",
+                                               "summary":  "Error rate /ask vÆ°á»£t 5%"
+                                           },
+                           "state":  "firing",
+                           "activeAt":  "2026-11-25T10:19:17.401817116Z",
+                           "value":  "2.4639718804920915e-01"
+                       },
+                       {
+                           "labels":  {
+                                          "alertname":  "LLMCostBurnRateHigh",
+                                          "severity":  "warning"
+                                      },
+                           "annotations":  {
+                                               "description":  "Tá»c Äá» chi tiÃªu hiá»n táº¡i: $4.83/giá»",
+                                               "summary":  "Chi phÃ­ LLM Äang vÆ°á»£t $2/giá»"
+                                           },
+                           "state":  "firing",
+                           "activeAt":  "2026-11-25T10:15:27.571501534Z",
+                           "value":  "4.831816044984343e+00"
+                       }
+                   ]
+    },
+    {
+        "observedAt":  "2026-11-25T10:21:15.0235662Z",
+        "elapsedSeconds":  110.9,
+        "firing":  "AgentHighErrorRate,LLMCostBurnRateHigh",
+        "alerts":  [
+                       {
+                           "labels":  {
+                                          "alertname":  "AgentHighErrorRate",
+                                          "severity":  "critical"
+                                      },
+                           "annotations":  {
+                                               "description":  "Error rate hiá»n táº¡i: 24.49% (SLO: \u003c 5%)",
+                                               "summary":  "Error rate /ask vÆ°á»£t 5%"
+                                           },
+                           "state":  "firing",
+                           "activeAt":  "2026-11-25T10:19:17.401817116Z",
+                           "value":  "2.4486907289455062e-01"
+                       },
+                       {
+                           "labels":  {
+                                          "alertname":  "LLMCostBurnRateHigh",
+                                          "severity":  "warning"
+                                      },
+                           "annotations":  {
+                                               "description":  "Tá»c Äá» chi tiÃªu hiá»n táº¡i: $4.91/giá»",
+                                               "summary":  "Chi phÃ­ LLM Äang vÆ°á»£t $2/giá»"
+                                           },
+                           "state":  "firing",
+                           "activeAt":  "2026-11-25T10:15:27.571501534Z",
+                           "value":  "4.9104816700612455e+00"
+                       }
+                   ]
+    },
+    {
+        "observedAt":  "2026-11-25T10:21:20.0391401Z",
+        "elapsedSeconds":  115.9,
+        "firing":  "AgentHighErrorRate,AgentHighLatencyP95,LLMCostBurnRateHigh",
+        "alerts":  [
+                       {
+                           "labels":  {
+                                          "alertname":  "AgentHighErrorRate",
+                                          "severity":  "critical"
+                                      },
+                           "annotations":  {
+                                               "description":  "Error rate hiá»n táº¡i: 23.77% (SLO: \u003c 5%)",
+                                               "summary":  "Error rate /ask vÆ°á»£t 5%"
+                                           },
+                           "state":  "firing",
+                           "activeAt":  "2026-11-25T10:19:17.401817116Z",
+                           "value":  "2.3769040028338648e-01"
+                       },
+                       {
+                           "labels":  {
+                                          "alertname":  "AgentHighLatencyP95",
+                                          "severity":  "warning"
+                                      },
+                           "annotations":  {
+                                               "description":  "p95 hiá»n táº¡i: 1.896s (SLO: \u003c 1s)",
+                                               "summary":  "p95 latency /ask vÆ°á»£t 1 giÃ¢y"
+                                           },
+                           "state":  "firing",
+                           "activeAt":  "2026-11-25T10:19:17.401817116Z",
+                           "value":  "1.8962121212121212e+00"
+                       },
+                       {
+                           "labels":  {
+                                          "alertname":  "LLMCostBurnRateHigh",
+                                          "severity":  "warning"
+                                      },
+                           "annotations":  {
+                                               "description":  "Tá»c Äá» chi tiÃªu hiá»n táº¡i: $5.00/giá»",
+                                               "summary":  "Chi phÃ­ LLM Äang vÆ°á»£t $2/giá»"
+                                           },
+                           "state":  "firing",
+                           "activeAt":  "2026-11-25T10:15:27.571501534Z",
+                           "value":  "4.997518683958704e+00"
+                       }
+                   ]
+    }
+]
